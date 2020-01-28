@@ -1,0 +1,11 @@
+  
+<li class="my-3">
+   <h3>{{ burgerName }}</h3>
+   <p>{{ burgerToppings }}</p>
+   {{#if eaten}}
+   <button class="eat-burger btn btn-secondary" data-id="{{ id }}" data-burger="{{eaten}}"><i
+         class="fas fa-utensils"></i> Eat!</button>
+   {{/if}}
+   <button class="delete-burger btn btn-danger" data-id="{{ id }}"><i class="far fa-trash-alt"></i> Delete</button>
+
+</li>
