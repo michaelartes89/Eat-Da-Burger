@@ -12,7 +12,10 @@ This is a full-stack web application designed to display the potential uses of s
 
 <a href="https://safe-waters-34488.herokuapp.com/" target="_blank"> Click Here to View </a>
 <img src="/public/assets/img/screenshot.png" alt="screenshot1">
-<img src="/publiv/assets/img/screenshot2.png" alt="screenshot2">
+<img src="/public/assets/img/screenshot2.png" alt="screenshot2">
+
+## Developer Contact Info
+Michael Artes-artes.mike@gmail.com 
 
 
 
